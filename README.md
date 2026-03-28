@@ -90,20 +90,6 @@ Opportunities, collaborations, and discussions in software development and tech 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rishab-del&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img src="https://streak-stats.demolab.com?user=Rishab-del&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-del&layout=compact&theme=tokyonight&cache_seconds=1800" />
-
-</p>
-
----
-
 ## 🧠 DSA & Competitive Programming
 
 <p align="center">
@@ -118,6 +104,24 @@ Opportunities, collaborations, and discussions in software development and tech 
 <p align="center">
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rishabh_iid123?theme=dark)
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rishab-del&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rishab-del&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-del&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
