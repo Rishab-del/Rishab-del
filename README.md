@@ -57,6 +57,9 @@ Opportunities, collaborations, and discussions in software development and tech 
   <a href="mailto:rishabh24464@iiitd.ac.in">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://instagram.com/rishabhpatel0929">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
