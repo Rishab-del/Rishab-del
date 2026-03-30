@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rishabh Patel
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;DSA+Enthusiast;Backend+Learner;IIIT+Delhi+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;IIIT+Delhi+Student)
 
 
 </p>
