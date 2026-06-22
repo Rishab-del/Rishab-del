@@ -23,13 +23,13 @@ I am a Computer Science and Engineering student at IIIT Delhi with a strong inte
 ### 🧠 What I Do
 - 📌 Practice Data Structures & Algorithms (DSA)  
 - 🚀 Build real-world projects  
-- 🔍 Explore backend development & system design  
+- 🔍 Explore web development & system design  
 
 ---
 
 ### 🎯 Interests
 - 💻 Software Development  
-- ⚙️ Backend Engineering  
+- ⚙️ Web Development
 - 🚀 Building impactful real-world products  
 
 ---
@@ -38,7 +38,7 @@ I am a Computer Science and Engineering student at IIIT Delhi with a strong inte
 - 📚 Improving problem-solving skills  
 - 🛠️ Building projects  
 - 🧠 System Design  
-- 🔧 Backend Development  
+- 🔧 Web Development  
 - 📊 Advanced DSA  
 
 ---
